@@ -1,4 +1,4 @@
-# scheduler
+# scheduler (Intro to Artificial Intelligence Project)
 
 Developed a solution to a scheduler problem in a group of 3 people.
 
@@ -48,7 +48,7 @@ forward checking
 - prop_GAC
 GAC propagation
 
-### cspbase.py
+### cspbase.py (Provided-I did not write this file)
 Provided classes for CSP, containing classes for:
 Variable, Constraints, CSP and BT
 
